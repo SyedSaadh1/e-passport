@@ -1,0 +1,17 @@
+export const COUNTRIES = [
+  "Afghanistan",
+  "Albania",
+  "Algeria",
+  "Australia",
+  "Bangladesh",
+  "Brazil",
+  "Canada",
+  "China",
+  "Denmark",
+  "Egypt",
+  "France",
+  "Germany",
+  "India",
+  "Japan",
+  "Kuwait",
+]
